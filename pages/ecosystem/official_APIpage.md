@@ -590,7 +590,7 @@ The following servers are built and provided by community volunteers. Once used,
 
 - 国际站点：[api.oplist.org](https://api.oplist.org/)
 - 中国大陆：[api.oplist.org.cn](https://api.oplist.org.cn/)
-
+- 全球加速（含中国大陆）：[api.oplist.org.cn](https://api.xxdhh.top/)
 ......
 
 :::en
